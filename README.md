@@ -12,3 +12,4 @@ Supported languages
 
 
 ![](https://i.imgur.com/YB2GnhP.png)
+![](https://i.imgur.com/snlgAqA.png)
