@@ -1,6 +1,6 @@
 # AddressCodex
 
-This is contact book for Linux 64-bit system.
+This is a contact book for Linux 64-bit system.
 Just download the zip file, extract and use with double click on 'AddressCodex' file!
 
 
